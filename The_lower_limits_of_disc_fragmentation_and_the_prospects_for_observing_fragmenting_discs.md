@@ -1,31 +1,31 @@
-**[Title]{.underline}**
+**[Title]**
 
 ﻿The lower limits of disc fragmentation and the prospects for observing
 fragmenting discs
 
-**[Complete Citation.]{.underline} (Author(s), Date of publication,
+**[Complete Citation.] (Author(s), Date of publication,
 Title (book or article), Journal, Volume #, Issue #, pages:**
 
 Stamatellos, D., Maury, A., Whitworth, A., & André, P. 2011, Mon Not R
 Astron Soc, 413, 1787
 
-**[If web access]{.underline} url; date accessed:**
+**[If web access] url; date accessed:**
 
 **NA**
 
-**[Key Words]{.underline}:**
+**[Key Words]:**
 
 Accretion; accretion discs; Brown dwarfs; Hydrodynamics; Methods:
 numerical; Radiative transfer; Stars: formation; Stars: low-mass
 
-**[General subject:]{.underline}**
+**[General subject:]**
 
 Disc fragmentation in accretion discs
 
 Lower limits of disc quantities such as mass and size that allow for
 disc fragmentation to occur
 
-**[Specific Subject:]{.underline}**
+**[Specific Subject:]**
 
 Determination of the lower limits of disc fragmentation and compare them
 with observed properties to assess the likelihood of this formation
@@ -35,7 +35,7 @@ Discs are observable with the current (2011) capabilities
 
 SEREN is used for the hydrodynamic simulations
 
-**[Hypothesis / Question:]{.underline}**
+**[Hypothesis / Question:]**
 
 A large number of observed brown dwarfs form by disc fragmentation as a
 result of gravitational instability in planet forming discs.
@@ -43,7 +43,7 @@ result of gravitational instability in planet forming discs.
 What are the lowest requirements of a disc such that it meets the
 criteria for disc fragmentation?
 
-**[Methodology:]{.underline}**
+**[Methodology:]**
 
 Star mass is 0.7 solar masses with disc mass and radius as free params
 b/w 0.15-0.3 solar masses and 60au -- 150au respectively
@@ -62,7 +62,7 @@ to resolve the jeans mass and vertical disc temperature profile
 Hydrodynamic simulations are used to investigate the lower limits of
 disc properties that will still allow for disc fragmentation
 
-**[Result(s):]{.underline}**
+**[Result(s):]**
 
 Gravitational instabilities develop in all the simulations ran, some of
 which grow stronger and cause the fragmentation of the disc within a few
@@ -106,9 +106,9 @@ There is also the possibility that discs around lower mass stars
 fragment and that passing stars trigger fragmentation due to
 gravitational interactions.
 
-[Comparison with disc observations (§4)]{.underline}
+[Comparison with disc observations (§4)]
 
-> [Uncertainties]{.underline}
+> [Uncertainties]
 >
 > Disc masses and radii are difficult to determine and may have an
 > uncertainty upto an order of magnitude
@@ -119,14 +119,14 @@ gravitational interactions.
 > Dust temps are also poorly constrained and an average profile may not
 > be sufficient
 >
-> [Candidate unstable discs]{.underline}
+> [Candidate unstable discs]
 >
 > Fragmentation in the sims here happens to quickly that they would
 > rarely be observed in nature
 >
 > HL Tau, Serpens FIRS 1, GSS39, DoAr 25, ﻿IRAS 16293−2422B
 
-**[Summary of key points:]{.underline}**
+**[Summary of key points:]**
 
 Discs of moderate size (100 au, 0.25 solar mass) around a 0.7 solar mass
 star (disk-star ratio of 0.36). These values are lower than previous
@@ -150,7 +150,7 @@ fields for example
 The final mass and radius of fragmented discs are both dramatically
 reduced as mass is contained within the objects that form.
 
-**[Context]{.underline} (how this article relates to other work in the
+**[Context] (how this article relates to other work in the
 field):**
 
 Pushes the expected lower limits of disc fragmentation to lower masses
@@ -158,13 +158,13 @@ and lower disc sizes. It shows that even low mass discs are able to
 fragment and opens up the question of even lower limits as discussed in
 §2.4
 
-**[Significance]{.underline} (to work in the field, to my own work):**
+**[Significance] (to work in the field, to my own work):**
 
 Simulations that I run may be unlikely to form lower mass objects in the
 planetary regime but their formation is possible on the outer fringes of
 discs.
 
-**[Importance Figures/Tables]{.underline} (Brief description and page
+**[Importance Figures/Tables] (Brief description and page
 number):**
 
 Table 1, page 3 (1789 of volume) -- disc params of all the simulated
@@ -176,11 +176,11 @@ fragmentation
 Figures 1 and 2, page 4 -- Toomre Parameter and cooling time for the
 discs that fragment
 
-**[Cited references to follow up on:]{.underline}**
+**[Cited references to follow up on:]**
 
-**[NA]{.underline}**
+**[NA]**
 
-**[Other Comments:]{.underline}**
+**[Other Comments:]**
 
 There is a section (§3) that discusses the processing of synthetic
 fragmenting discs and comparing them with observations which is worth a

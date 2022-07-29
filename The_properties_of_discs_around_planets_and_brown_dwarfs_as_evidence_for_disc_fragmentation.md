@@ -1,29 +1,29 @@
-**[Title]{.underline}**
+**[Title]**
 
 ﻿The properties of discs around planets and brown dwarfs as evidence for
 disc fragmentation
 
-**[Complete Citation.]{.underline} (Author(s), Date of publication,
+**[Complete Citation.] (Author(s), Date of publication,
 Title (book or article), Journal, Volume #, Issue #, pages:**
 
 Stamatellos, D., & Herczeg, G. J. 2015, Mon Not R Astron Soc, 449, 3432
 
-**[If web access]{.underline} url; date accessed:**
+**[If web access] url; date accessed:**
 
 **NA**
 
-**[Key Words]{.underline}:**
+**[Key Words]:**
 
 Accretion; accretion discs; Brown dwarfs; Hydrodynamics; Methods:
 numerical; Protoplanetary discs; Stars: formation; Stars: low-mass
 
-**[General subject:]{.underline}**
+**[General subject:]**
 
 Investigating the properties of discs that form around planetary mass
 objects and brown dwarfs and the evidence they present towards planet
 formation by disc fragmentation.
 
-**[Specific Subject:]{.underline}**
+**[Specific Subject:]**
 
 -   Predictions of the masses of discs around objects formed by disc
     fragmentation (brown dwarfs and planets)
@@ -31,14 +31,14 @@ formation by disc fragmentation.
 -   Calculation of accretion rate onto formed objects and comparison
     with observation
 
-**[Hypothesis:]{.underline}**
+**[Hypothesis:]**
 
 Low mass objects (planets and brown dwarfs) seen in observations are
 formed by gravitational instability as defined by the disc fragmentation
 model. The properties of the discs around substellar objects may hold
 information about their formation.
 
-**[Methodology:]{.underline}**
+**[Methodology:]**
 
 Using data from Stamatellos and Whitworth (2009a) where 12 simulations
 were run for gravitationally unstable discs and solar like stars. All
@@ -50,7 +50,7 @@ Used DRAGON SPH code which uses Stamatellos et al (2007b) treatment of
 radiative transfer. Time dependant viscosity with α = 0.1 β = 2 α with
 the Balsara switch activated.
 
-**[Analytic model of disc evolution:]{.underline}**
+**[Analytic model of disc evolution:]**
 
 Used to model disc evolution with time to save computational expense.
 
@@ -62,7 +62,7 @@ Shakura and Sunyaev viscosity prescription
 
 Equations 3 - 11
 
-**[Result(s):]{.underline}**
+**[Result(s):]**
 
 The initial unstable discs fragment into 5-11 objects in a few kys. 96
 objects formed across the 12 sims -- some escape and some are in binary
@@ -109,7 +109,7 @@ the collapse of low mass pre-substellar cores
 Lower viscosity discs evolve slower and masses and MAR are higher for
 longer.
 
-**[Summary of key points:]{.underline}**
+**[Summary of key points:]**
 
 Objects that form by disc fragmentation have MAR that are independent of
 the host mass and higher than expected from scaling relations that were
@@ -129,7 +129,7 @@ mass accretion rates higher than expected)
 At these low masses ( \<10 Jupiter masses), the scaling relations
 diverge from the model presented here.
 
-**[Context]{.underline} (how this article relates to other work in the
+**[Context] (how this article relates to other work in the
 field):**
 
 Finds divergence in the scaling relations that are used for higher mass
@@ -143,19 +143,19 @@ rates to test if lower mass objects obey difference scaling relations.
 Future observations from ALMA of the accretion rates onto secondary
 objects will aid the prescription of their formation mechanism
 
-**[Significance]{.underline} (to work in the field, to my own work):**
+**[Significance] (to work in the field, to my own work):**
 
 I use equations 4-11 (analytic model of disc evolution) to fit a
 function to the mass accretion rates calculated from the results from
 GIZMO SPH simulations.
 
-**[Importance Figures/Tables]{.underline} (Brief description and page
+**[Importance Figures/Tables] (Brief description and page
 number):**
 
 Figure 1, page 3 (3434 of volume) -- Masses of a select number of the
 objects that are formed by disc fragmentation.
 
-**[Cited references to follow up on:]{.underline}**
+**[Cited references to follow up on:]**
 
 ﻿Stamatellos D., Whitworth A. P., 2009a, MNRAS, 392, 413
 
@@ -168,4 +168,4 @@ objects that are formed by disc fragmentation.
 ﻿Zhou Y., Herczeg G. J., Kraus A. L., Metchev S., Cruz K. L., 2014, ApJ,
 783, L17
 
-**[Other Comments:]{.underline}**
+**[Other Comments:]**

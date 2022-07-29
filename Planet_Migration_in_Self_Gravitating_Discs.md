@@ -1,21 +1,21 @@
-**[Title]{.underline}**
+**[Title]**
 
 Planet Migration in Self-Gravitating Discs: Survival of Planets
 
-**[Complete Citation.]{.underline} (Author(s), Date of publication,
+**[Complete Citation.] (Author(s), Date of publication,
 Title (book or article), Journal, Volume #, Issue #, pages:**
 
 Rowther, S., & Meru, F. 2020, 13, 1
 
-**[If web access]{.underline} url; date accessed:**
+**[If web access] url; date accessed:**
 
 <http://arxiv.org/abs/2006.03077>, accessed 8^th^ June 2020
 
-**[Key Words]{.underline}:**
+**[Key Words]:**
 
 hydrodynamics; planet-disc interactions; protoplanetary discs
 
-**[General subject:]{.underline}**
+**[General subject:]**
 
 3D SPH simulations
 
@@ -23,7 +23,7 @@ Self gravitating protoplanetary discs
 
 Planet migration in discs
 
-**[Specific Subject:]{.underline}**
+**[Specific Subject:]**
 
 Planets forming in the early stages of disc lifetimes while they are
 still massive and self gravitating can survive
@@ -31,12 +31,12 @@ still massive and self gravitating can survive
 Rapid initial inward migration of planets for both low and high mass
 planets ( \< Mnep and \> Msat respectively)
 
-**[Hypothesis / Question:]{.underline}**
+**[Hypothesis / Question:]**
 
 Do planets have the ability to slow their migration to the inner stable
 part of the disc, irrespective of how they form?
 
-**[Methodology:]{.underline}**
+**[Methodology:]**
 
 PHANTOM is used for the SPH simulations with mostly 2e6 particles with a
 few using 1e6 and 4e6 to ensure consistency across resolution.
@@ -57,7 +57,7 @@ spiral structure.
 Planet is embedded at R=20, planets have different masses. See section
 2.4
 
-**[Result(s):]{.underline}**
+**[Result(s):]**
 
 Disc with constant β shows spiral structure first, from the inside first
 and then throughout the disc
@@ -80,7 +80,7 @@ With variable β, the low mass planets show very little migration inwards
 and in the case where migration exists it is significantly slowed in the
 inner regions
 
-**[Summary of key points:]{.underline}**
+**[Summary of key points:]**
 
 The use of a radially decreasing β parameter that ensure that the inner
 regions of the disc are gravitationally stable while the outer regions
@@ -90,7 +90,7 @@ the gravitationally stable region without a gap opening.
 Planets may be able to survive inward migration in self-gravitating
 discs
 
-**[Context]{.underline} (how this article relates to other work in the
+**[Context] (how this article relates to other work in the
 field):**
 
 Development of cooling treatment to mimic more realistic discs
@@ -98,13 +98,13 @@ Development of cooling treatment to mimic more realistic discs
 Relation to observations of planet forming discs like HL Tau which is
 placed in the gravitationally unstable regime beyond 50 AU
 
-**[Significance]{.underline} (to work in the field, to my own work):**
+**[Significance] (to work in the field, to my own work):**
 
 Any planets that form in my simulations may go through a period of
 inward migration as shown in this work and when I start looking at
 radiative transfer maybe I should entertain the idea of a variable β
 
-**[Importance Figures/Tables]{.underline} (Brief description and page
+**[Importance Figures/Tables] (Brief description and page
 number):**
 
 Figure 1, page 3, Comparison of cooling times based on two treatments of
@@ -115,6 +115,6 @@ Figure 3, page 4, Temp and Toomre Values as a function of radius
 Figure 5, page 5, Column density plots of their discs at certain orbital
 times
 
-**[Cited references to follow up on:]{.underline}**
+**[Cited references to follow up on:]**
 
-**[Other Comments:]{.underline}**
+**[Other Comments:]**

@@ -1,30 +1,30 @@
-**[Title]{.underline}**
+**[Title]**
 
-**[﻿]{.underline}**Planet formation around M dwarfs via disc instability
+**[﻿]**Planet formation around M dwarfs via disc instability
 Fragmentation conditions and protoplanet properties
 
-**[Complete Citation.]{.underline} (Author(s), Date of publication,
+**[Complete Citation.] (Author(s), Date of publication,
 Title (book or article), Journal, Volume #, Issue #, pages:**
 
 Mercer, A., & Stamatellos, D. 2020, 116, 1,
 
-**[If web access]{.underline} url; date accessed:**
+**[If web access] url; date accessed:**
 
 <http://arxiv.org/abs/2001.10062%0A>
 
-**[Key Words]{.underline}:**
+**[Key Words]:**
 
 accretion; accretion disks; formation; hydrodynamics; low-mass; planets
 and satellites; protoplanetary disks; stars
 
-**[General subject:]{.underline}**
+**[General subject:]**
 
 Planet formation by disc fragmentation due to gravitational instability
 and the fragment properties
 
 Properties of exoplanets
 
-**[Specific Subject:]{.underline}**
+**[Specific Subject:]**
 
 Formation of planets by disc fragmentation around M dwarf stars (up to
 around 0.5 solar masses)
@@ -34,12 +34,12 @@ mass stars
 
 GANDALF SPH code with Cullen and Dehnen artificial viscosity treatment
 
-**[Hypothesis:]{.underline}**
+**[Hypothesis:]**
 
 Giant planets around M Dwarfs are prime candidates to have formed
 through disc instability
 
-**[Methodology:]{.underline}**
+**[Methodology:]**
 
 GANDALF SPH code used to model the hydrodynamics of the systems
 
@@ -57,7 +57,7 @@ A total of 27 simulations are performed, each initially gravitationally
 stable but through the mass loading process they become unstable and
 spiral arms develop
 
-**[Result(s):]{.underline}**
+**[Result(s):]**
 
 When a disc fragments, the disc mass gives the minimum mass for disc
 fragmentation and the time of fragmentation.
@@ -87,7 +87,7 @@ rate due to angular momentum being transferred outwards by gravitational
 torques, prior to this, when the disc is stable, the transport of
 angular momentum happens much slower.
 
-[Properties of planets formed by disc instability]{.underline}
+[Properties of planets formed by disc instability]
 
 > Protoplanets are formed when the local densities exceed e-9 gcm-3.
 >
@@ -118,7 +118,7 @@ angular momentum happens much slower.
 > varies between 0.3 and 1.5 times the local orbital period which allows
 > for possible interactions and disruptions before a second core forms.
 
-[Comparison with observations of planets around M dwarfs:]{.underline}
+[Comparison with observations of planets around M dwarfs:]
 
 > Properties are expected to change as protoplanets interact with other
 > bodies in the disc
@@ -130,7 +130,7 @@ angular momentum happens much slower.
 >
 > MAR onto protoplanet may reduce if temp of protoplanet is high enough
 
-**[Summary of key points:]{.underline}**
+**[Summary of key points:]**
 
 Fragmentation around M dwarfs requires disc to star mass ratio (q) of
 between 0.3 and 0.6 depending on the size of the disc with larger discs
@@ -151,13 +151,13 @@ Protoplanets around MD form w/i a few thousand years
 Disc instability is a viable mechanism for the formation of giant gas
 planets round MDs where core accretion would be insufficient.
 
-**[Context]{.underline} (how this article relates to other work in the
+**[Context] (how this article relates to other work in the
 field):**
 
 Agrees with previous work that suggested that fragmentation can only
 occurs in the outer regions of extended discs.
 
-**[Significance]{.underline} (to work in the field, to my own work):**
+**[Significance] (to work in the field, to my own work):**
 
 They do not follow the protoplanet past the formation of the second core
 due to computational constraints. They suggest that a more detailed
@@ -165,12 +165,12 @@ treatment of the protoplanet past this stage is required rather than the
 typical sink particles. This is one of the things I am improving on in
 my research.
 
-**[Importance Figures/Tables]{.underline} (Brief description and page
+**[Importance Figures/Tables] (Brief description and page
 number):**
 
 Figure 16, page 12. The evolution of a protoplanet formed by disc
 fragmentation. One of the aims of my research is to extend these plots
 
-**[Cited references to follow up on:]{.underline}**
+**[Cited references to follow up on:]**
 
-**[Other Comments:]{.underline}**
+**[Other Comments:]**

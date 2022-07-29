@@ -1,23 +1,23 @@
-**[Title]{.underline}**
+**[Title]**
 
 ﻿Testing viscous disc theory using the balance between stellar accretion
 and external photoevaporation of protoplanetary discs
 
-**[Complete Citation.]{.underline} (Author(s), Date of publication,
+**[Complete Citation.] (Author(s), Date of publication,
 Title (book or article), Journal, Volume #, Issue #, pages:**
 
 Winter, A. J., Ansdell, M., Haworth, T. J., & Kruijssen, J. M. D. 2020,
 6, 1,
 
-**[If web access]{.underline} url; date accessed:**
+**[If web access] url; date accessed:**
 
 http://arxiv.org/abs/2006.04819%0Ahttp://dx.doi.org/10.1093/mnrasl/slaa110
 
-**[Key Words]{.underline}:**
+**[Key Words]:**
 
 circumstellar matter; formation; protoplanetary discs; stars
 
-**[General subject:]{.underline}**
+**[General subject:]**
 
 Evolution of protoplanetary discs (PPDs)
 
@@ -25,7 +25,7 @@ Gas dispersal
 
 Angular momentum transport
 
-**[Specific Subject:]{.underline}**
+**[Specific Subject:]**
 
 Viscous transport of angular momentum
 
@@ -36,15 +36,15 @@ Photoevaporation and discs winds
 Comparison of externally driven mass-loss rate with the accretion rate
 onto the central object
 
-**[Hypothesis / Question:]{.underline}**
+**[Hypothesis / Question:]**
 
 A disc population that has been depleted by external photoevaporation
 can be used to inform the transport of angular momentum in the outer
 regions of the disc
 
-**[Methodology:]{.underline}**
+**[Methodology:]**
 
-[Stellar Dynamical Model]{.underline}
+[Stellar Dynamical Model]
 
 > NBody 6 ++ code (1974) using a star position distribution from Plummer
 > profile
@@ -55,7 +55,7 @@ regions of the disc
 > Maxwellian velocity distribution with dispersion chosen such that the
 > population is in virial equilibrium
 
-[Disc Evolution]{.underline}
+[Disc Evolution]
 
 > Initial disc mass of 0.1 M_star with a viscous α of e-3 which is kept
 > constant to be consistent with the radial dependence of viscosity
@@ -65,7 +65,7 @@ regions of the disc
 >
 > **Used LINMIX package for bayesian linear regression**
 
-**[Result(s):]{.underline}**
+**[Result(s):]**
 
 Comparisons of observed dust masses with those obtained from the model
 at 2 Myr show that the discs have not undergone sufficient depletion to
@@ -111,7 +111,7 @@ Fixed viscous α at e-3
 Νο prescription for the effect if interstellar extinction that may cause
 disc UV shielding
 
-**[Summary of key points:]{.underline}**
+**[Summary of key points:]**
 
 Model presented reproduces the observed disc mass distribution
 suggesting that it may be a reasonable mechanism for the depletion of
@@ -121,7 +121,7 @@ No strong gradient in the externally driven depletion of the inner disc
 but this does not necessarily imply that the external photoevaporation
 has a negligible effect on the PPDs in the region.
 
-**[Context]{.underline} (how this article relates to other work in the
+**[Context] (how this article relates to other work in the
 field):**
 
 Comparisons of their model to observations and offers a novel way of
@@ -133,21 +133,21 @@ depleted PPDs. The targets should be the most massive discs around the
 most massive stars with the highest accretion rates that are closest to
 the ionising source.
 
-**[Significance]{.underline} (to work in the field, to my own work):**
+**[Significance] (to work in the field, to my own work):**
 
 Discussion of Macc relation to various disc parameters that may be
 useful to know going forward, specifically the info in figure 4 and the
 preceding section.
 
-**[Importance Figures/Tables]{.underline} (Brief description and page
+**[Importance Figures/Tables] (Brief description and page
 number):**
 
 Figure 4, page - The mass loss rates (stellar accretion and wind driven)
 as function of various parameters, outer radius of the disc etc.
 
-**[Cited references to follow up on:]{.underline}**
+**[Cited references to follow up on:]**
 
 Rosotti et al. 2017; Winter et al. 2019 for a study of varying viscous α
 in relation to the work here.
 
-**[Other Comments:]{.underline}**
+**[Other Comments:]**

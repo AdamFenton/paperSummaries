@@ -1,32 +1,32 @@
-**[Title]{.underline}**
+**[Title]**
 
-**[Complete Citation.]{.underline} (Author(s), Date of publication,
+**[Complete Citation.] (Author(s), Date of publication,
 Title (book or article), Journal, Volume #, Issue #, pages:**
 
-**[If web access]{.underline} url; date accessed:**
+**[If web access] url; date accessed:**
 
-**[Key Words]{.underline}:**
+**[Key Words]:**
 
-**[General subject:]{.underline}**
+**[General subject:]**
 
-**[Specific Subject:]{.underline}**
+**[Specific Subject:]**
 
-**[Hypothesis / Question:]{.underline}**
+**[Hypothesis / Question:]**
 
-**[Methodology:]{.underline}**
+**[Methodology:]**
 
-**[Result(s):]{.underline}**
+**[Result(s):]**
 
-**[Summary of key points:]{.underline}**
+**[Summary of key points:]**
 
-**[Context]{.underline} (how this article relates to other work in the
+**[Context] (how this article relates to other work in the
 field):**
 
-**[Significance]{.underline} (to work in the field, to my own work):**
+**[Significance] (to work in the field, to my own work):**
 
-**[Importance Figures/Tables]{.underline} (Brief description and page
+**[Importance Figures/Tables] (Brief description and page
 number):**
 
-**[Cited references to follow up on:]{.underline}**
+**[Cited references to follow up on:]**
 
-**[Other Comments:]{.underline}**
+**[Other Comments:]**

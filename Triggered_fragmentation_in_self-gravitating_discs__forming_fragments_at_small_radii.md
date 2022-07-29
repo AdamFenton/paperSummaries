@@ -1,9 +1,9 @@
-**[Title]{.underline}**
+**[Title]**
 
 Triggered fragmentation in self-gravitating discs: forming fragments at
 small radii
 
-**[Complete Citation.]{.underline} (Author(s), Date of publication,
+**[Complete Citation.] (Author(s), Date of publication,
 Title (book or article), Journal, Volume #, Issue #, pages:**
 
 Meru, F. (2015). Triggered fragmentation in self-gravitating discs:
@@ -11,16 +11,16 @@ Forming fragments at small radii. *Monthly Notices of the Royal
 Astronomical Society*, *454*(3), 2529--2538.
 https://doi.org/10.1093/mnras/stv2128
 
-**[If web access]{.underline} url; date accessed:**
+**[If web access] url; date accessed:**
 
 https://arxiv.org/abs/1509.03635
 
-**[Key Words]{.underline}:**
+**[Key Words]:**
 
 Accretion; Accretion discs; Gravitation; Hydrodynamics; Instabilities;
 Planets and satellites: formation; Protoplanetary discs
 
-**[General subject:]{.underline}**
+**[General subject:]**
 
 -   SPH simulations
 
@@ -28,20 +28,20 @@ Planets and satellites: formation; Protoplanetary discs
 
 -   Movement of mass in fragmenting discs
 
-**[Specific Subject:]{.underline}**
+**[Specific Subject:]**
 
 Fragmenting gravitationally unstable protoplanetary discs
 
 Fragmentation in outer regions causes subsequent fragmentation in the
 inner regions
 
-**[Hypothesis / Question:]{.underline}**
+**[Hypothesis / Question:]**
 
 In a gravitationally unstable disc, can fragmentation in the outer
 regions of the disc cause a subsequent secondary fragmentation in the
 inner regions of the disc?
 
-**[Methodology:]{.underline}**
+**[Methodology:]**
 
 SPH simulations using flux limited diffusion to model the transfer of
 radiation.
@@ -69,7 +69,7 @@ This disc setup means that the lowest value of toomre Q is 0.75 and 0.7
 in simulation 1 and simulation 2 respectively. The viscous heating does
 increase Q throughout the simulations.
 
-**[Result(s):]{.underline}**
+**[Result(s):]**
 
 -   Mass moves inwards following the formation of the first fragment
 
@@ -82,16 +82,16 @@ increase Q throughout the simulations.
 -   Following the formation of the first fragmentation, the inner spiral
     density increases and Q decreases to Q \< 1 at \~ 24 AU.
 
-**[Summary of key points:]{.underline}**
+**[Summary of key points:]**
 
-**[Context]{.underline} (how this article relates to other work in the
+**[Context] (how this article relates to other work in the
 field):**
 
-**[Significance]{.underline} (to work in the field, to my own work):**
+**[Significance] (to work in the field, to my own work):**
 
-**[Importance Figures/Tables]{.underline} (Brief description and page
+**[Importance Figures/Tables] (Brief description and page
 number):**
 
-**[Cited references to follow up on:]{.underline}**
+**[Cited references to follow up on:]**
 
-**[Other Comments:]{.underline}**
+**[Other Comments:]**

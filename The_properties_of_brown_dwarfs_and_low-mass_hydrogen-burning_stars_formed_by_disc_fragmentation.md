@@ -1,19 +1,19 @@
-**[Title]{.underline}**
+**[Title]**
 
-**[﻿]{.underline}**The properties of brown dwarfs and low-mass
+**[﻿]**The properties of brown dwarfs and low-mass
 hydrogen-burning stars formed by disc fragmentation
 
-**[Complete Citation.]{.underline} (Author(s), Date of publication,
+**[Complete Citation.] (Author(s), Date of publication,
 Title (book or article), Journal, Volume #, Issue #, pages:**
 
 Stamatellos, D., & Whitworth, A. P. 2009, Mon Not R Astron Soc, 392, 413
 
-**[Key Words]{.underline}:**
+**[Key Words]:**
 
 Accretion; accretion discs; Hydrodynamics; Methods: numerical; Radiative
 transfer; Stars: formation; Stars: low-mass; brown dwarfs
 
-**[General subject:]{.underline}**
+**[General subject:]**
 
 Investigating the properties of the objects that form by disc
 fragmentation in gravitationally unstable discs.
@@ -27,7 +27,7 @@ Investigate the formation of BDs:
 
 > Focusing on the formation by disc instability
 
-**[Specific Subject:]{.underline}**
+**[Specific Subject:]**
 
 -   Description of how object formation by disc fragmentation offers and
     explanation of the BD desert
@@ -35,7 +35,7 @@ Investigate the formation of BDs:
 -   How robust a mechanism disc fragmentation is for the formation of
     BDs
 
-**[Hypothesis:]{.underline}**
+**[Hypothesis:]**
 
 Evidence exists that BDs form differently from HBs as evidenced by the
 brown dwarf desert
@@ -44,7 +44,7 @@ A large number of brown dwarfs are formed by disc fragmentation of the
 massive, discs around solar like stars and that these discs should be
 frequent but rarely observed due to the fact that they fragment rapidly.
 
-**[Methodology:]{.underline}**
+**[Methodology:]**
 
 Use of an SPH method using DRAGON code following the disc evolution
 until 70-80% of the disc mass has been accreted onto the central star or
@@ -70,7 +70,7 @@ particles and the final one with 400,000 particles to check convergence.
 Each simulation is started with the same star and disc with the only
 difference being the random seed used to construct the discs
 
-**[Result(s):]{.underline}**
+**[Result(s):]**
 
 The discs are initialised as unstable with Q = 0.9 so spiral arms form
 and material is swept into dense concentrations. In the 12 simulations
@@ -98,7 +98,7 @@ though there is sufficient mass, the cooling tile is too long and the
 stars are sheared apart, the far out regions where cooling time is
 shorter, the mass is far less so fragmentation is supressed. The regions
 between 100 and 200 au are the best of both worlds **[(for this
-disc)]{.underline}**
+disc)]**
 
 BD are mostly outside of 100AU while HB are mostly inside 100AU
 
@@ -125,7 +125,7 @@ eccentricity of the BD orbit -- **Figure 11**
 
 PMs can be formed by disc fragmentation but their fraction is low
 
-**[Summary of key points:]{.underline}**
+**[Summary of key points:]**
 
 Disc fragmentation is a viable mechanism for the formation of BDs and
 PMS with a large proportion forming this way
@@ -142,7 +142,7 @@ Stars forming further in migrate inwards to closer final orbits, the
 reverse is true for those forming in the outer disc and they have the
 potential to be ejected.
 
-**[Context]{.underline} (how this article relates to other work in the
+**[Context] (how this article relates to other work in the
 field):**
 
 Provides evidence for the brown dwarf desert being the results of
@@ -155,7 +155,7 @@ One of the simulations performed here shows a warped disc which, though
 rare, have been observed. They require a violent interaction between a
 spiral arm and a star that is to be ejected
 
-**[Significance]{.underline} (to work in the field, to my own work):**
+**[Significance] (to work in the field, to my own work):**
 
 The simulations used here were used in the Stamatellos et al (2015)
 paper to investigate the properties of the discs around objects formed
@@ -164,7 +164,7 @@ by disc fragmentation.
 Provides good idea of what sort of values for masses, semi major axes
 etc that I should be expecting in my own work.
 
-**[Importance Figures/Tables]{.underline} (Brief description and page
+**[Importance Figures/Tables] (Brief description and page
 number):**
 
 Figure 1, page 5 (417 of volume) -- snapshots of simulation with 0.7
@@ -175,9 +175,9 @@ formed in the sims and a function of formation time.
 
 Figures 8 and 9, page 9 -- Disc masses and size distributions
 
-**[Cited references to follow up on:]{.underline}**
+**[Cited references to follow up on:]**
 
-**[Other Comments:]{.underline}**
+**[Other Comments:]**
 
 This is a long paper and fairly exhaustive in its detail so it is worth
 a full read rather than just these brief points
